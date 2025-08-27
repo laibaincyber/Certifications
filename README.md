@@ -9,11 +9,11 @@ Each certificate is stored in PDF format for reference.
 
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
-| MITRE – Understanding the Basics | Trend Micro | Jul 2025 | [PDF](./Cybersecurity/mitre_understanding_basics_trendmicro.pdf) |
-| SOC Fundamentals | Trend Micro | Jul 2025 | [PDF](./Cybersecurity/soc_fundamentals_trendmicro.pdf) |
-| Security Operations Foundation | Trend Micro Vision One | Aug 2025 | [PDF](./Cybersecurity/trendvisionone_security_ops_foundation.pdf) |
-| Threat Intelligence | Trend Micro Vision One | Aug 2025 | [PDF](./Cybersecurity/trendvisionone_threat_intelligence.pdf) |
-| Advanced Network Security | Trend Micro | Aug 2025 | [PDF](./Cybersecurity/trendmicro_advanced_network_security.pdf) |
+| MITRE – Understanding the Basics | Trend Micro | Jul 2025 | [PDF](./CyberSecurity/mitre_understanding_basics_trendmicro.pdf) |
+| SOC Fundamentals | Trend Micro | Jul 2025 | [PDF](./CyberSecurity/soc_fundamentals_trendmicro.pdf) |
+| Security Operations Foundation | Trend Micro Vision One | Aug 2025 | [PDF](./CyberSecurity/trendvisionone_security_ops_foundation.pdf) |
+| Threat Intelligence | Trend Micro Vision One | Aug 2025 | [PDF](./CyberSecurity/trendvisionone_threat_intelligence.pdf) |
+| Advanced Network Security | Trend Micro | Aug 2025 | [PDF](./CyberSecurity/trendmicro_advanced_network_security.pdf) |
 
 ## 🛡 Governance, Risk & Compliance (GRC)
 | Certification | Issuer | Date | Credential |
