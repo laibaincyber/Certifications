@@ -8,8 +8,9 @@ Each certificate is stored in PDF format for reference.
 ## Cybersecurity
 
 | Certification | Issuer | Date | Credential |
-|---------------|--------|------|------------|
+|---------------|--------|------|------------| 
 | Google CyberSecurity | Coursera | April 2025 | [PDF](./CyberSecurity/Coursera_Google_Cybersecurity.pdf) |
+| Certified CyberSecurity Analyst-C3SA  | CyberWarfare Labs| Jul 2024 | [PDF](./CyberSecurity/c3sa.pdf) |
 | MITRE – Understanding the Basics | Trend Micro | Jul 2025 | [PDF](./CyberSecurity/mitre_understanding_basics_trendmicro.pdf) |
 | SOC Fundamentals | Trend Micro | Jul 2025 | [PDF](./CyberSecurity/soc_fundamentals_trendmicro.pdf) |
 | Security Operations Foundation | Trend Micro Vision One | Aug 2025 | [PDF](./CyberSecurity/trendvisionone_security_ops_foundation.pdf) |
