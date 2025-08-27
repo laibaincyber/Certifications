@@ -17,7 +17,7 @@ Each certificate is stored in PDF format for reference.
 | Threat Intelligence | Trend Micro Vision One | Aug 2025 | [PDF](./CyberSecurity/trendvisionone_threat_intelligence.pdf) |
 | Advanced Network Security | Trend Micro | Aug 2025 | [PDF](./CyberSecurity/trendmicro_advanced_network_security.pdf) |
 
-## 🛡 Governance, Risk & Compliance (GRC)
+##  Governance, Risk & Compliance (GRC)
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
 | ISO/IEC 27001:2022 Information Security Associate | SkillFront | Jul 2025 | [PDF](./GRC/iso_27001_2022_Information_Secuirty_Associate.pdf) |
@@ -25,7 +25,7 @@ Each certificate is stored in PDF format for reference.
 
 
 
-## ☁️ Cloud
+##  Cloud
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
 | Cloud Architecture | Government of Sindh | 2024 | [PDF](./Cloud/Cloud_Archietecture.pdf) |
