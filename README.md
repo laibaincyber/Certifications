@@ -28,9 +28,9 @@ Each certificate is stored in PDF format for reference.
 ## ☁️ Cloud
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
-| Cloud Architecture | Government of Sindh | 2024 | [PDF](./Cloud/cloud_archietecture.pdf) |
+| Cloud Architecture | Government of Sindh | 2024 | [PDF](./Cloud/Cloud_Archietecture.pdf) |
 
 ## AI
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
-| Deep Learning | Bytewise | 2024 | [PDF](./AI/Bytewise_DeepLearning.pdf) |
+| Deep Learning | Bytewise | 2024 | [PDF](./AI/Bytewise%20DeepLearning.pdf) |
