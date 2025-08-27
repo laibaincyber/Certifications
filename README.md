@@ -20,7 +20,7 @@ Each certificate is stored in PDF format for reference.
 | Certification | Issuer | Date | Credential |
 |---------------|--------|------|------------|
 | ISO/IEC 27001:2022 Information Security Associate | SkillFront | Jul 2025 | [PDF](./GRC/iso_27001_2022_Information_Secuirty_Associate.pdf) |
-| ISO/IEC 27001:2022 Lead Auditor | Mastermind | April 2025 | [PDF](./ISO_IEC_27001_2022_lead_auditor.pdf) |
+| ISO/IEC 27001:2022 Lead Auditor | Mastermind | April 2025 | [PDF](./GRC/ISO_IEC_27001_2022_lead_auditor.pdf) |
 
 
 
